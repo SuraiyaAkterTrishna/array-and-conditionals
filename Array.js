@@ -10,3 +10,7 @@ var positionOfAlija = myFriends.indexOf("Alija");
 // push()
 myFriends.push("Katrina");
 console.log(myFriends);
+
+// pop()
+myFriends.pop();
+console.log(myFriends);
